@@ -1,0 +1,13 @@
+* {
+  padding:0;
+  margin: 0;
+	box-sizing: border-box;
+}
+
+.vh-90{
+  height: 90vh;
+}
+.vh-10{
+  height: 10vh;
+}
+
